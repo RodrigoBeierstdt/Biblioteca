@@ -1,7 +1,3 @@
-Que ótima ideia! Criar um README.md bem estruturado é essencial para apresentar seu projeto no GitHub. Ele mostra que o código funciona e facilita para outros desenvolvedores entenderem o sistema.
-
-Aqui está um modelo completo e bem formatado, como se fosse você explicando seu Sistema de Gerenciamento de Biblioteca em Java.
-
 📚 Sistema de Gerenciamento de Biblioteca em Java
 Este projeto é um sistema simples de gerenciamento de itens de biblioteca (focando em Livros) desenvolvido em Java, utilizando os conceitos de Programação Orientada a Objetos (POO), como Herança, Encapsulamento e Polimorfismo.
 
